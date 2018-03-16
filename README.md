@@ -1,1 +1,2 @@
-A repository to demonstrate active pull request reviews using our Code Hound senior project.
+# Sample-Repo
+A sample repository to pull down for the code smell detector tool
